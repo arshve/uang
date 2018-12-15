@@ -1,4 +1,4 @@
-# Money Clasification Using Docker and Inceptoion V3
+# Money Clasification Using Docker and Inception V3
 
 Train Image Data
 
